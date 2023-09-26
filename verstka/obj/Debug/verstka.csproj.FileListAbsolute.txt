@@ -1,0 +1,15 @@
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\bin\Debug\verstka.exe.config
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\bin\Debug\verstka.exe
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\bin\Debug\verstka.pdb
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.csproj.AssemblyReference.cache
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\MainWindow.g.cs
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\App.g.cs
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka_MarkupCompile.cache
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka_MarkupCompile.lref
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\MainWindow.baml
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.g.resources
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.Properties.Resources.resources
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.csproj.GenerateResource.cache
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.csproj.CoreCompileInputs.cache
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.exe
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.pdb
