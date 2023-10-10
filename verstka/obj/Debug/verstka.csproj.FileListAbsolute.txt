@@ -13,3 +13,5 @@ C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.csproj.
 C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.csproj.CoreCompileInputs.cache
 C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.exe
 C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\verstka.pdb
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\SecondWindow.g.cs
+C:\Users\Golovtchenko.D.S\source\repos\verstka\verstka\obj\Debug\SecondWindow.baml

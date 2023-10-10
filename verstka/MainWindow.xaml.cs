@@ -36,5 +36,12 @@ namespace verstka
             Process.Start(new ProcessStartInfo(e.Uri.AbsoluteUri));
             e.Handled = true;
         }
+
+        private void Button_Click2(object sender, RoutedEventArgs e)
+        {
+            SecondWindow secondWindow = new SecondWindow();
+            secondWindow.Show();
+            secondWindow.Owner = this;
+        }
     }
 }
